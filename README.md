@@ -25,7 +25,13 @@ Jenkins_Url: http://localhost:8080/job/ProyectoVideoclub/
 
 Pruebas nuevas
 
-http://localhost:8090/api/crearPeliculas
 
 Obtener todas las peliculas o guardar peliculas desde el postman.
-http://localhost:8090/api/peliculas
+http://localhost:8090/api/pelicula
+Postman: 
+GET ALL Peliculas (todas las peliculas)
+GET Pelicula (una pelicula por id)
+DELETE Pelicula (borramos una pelicula por id)
+POST Pelicula (nueva pelicula)
+PUT Pelicula (actualizar pelicula)
+![img_3.png](img_3.png)
