@@ -33,7 +33,7 @@ GET ALL Peliculas (todas las peliculas)
 GET Pelicula (una pelicula por id)
 DELETE Pelicula (borramos una pelicula por id)
 POST Pelicula (nueva pelicula)
-PUT Pelicula (actualizar pelicula)
+PUT Pelicula (actualizar pelicula) 
 ![img_3.png](img_3.png)
 
 Hemos añadido el Cacheable de REDIS, para el get all y el getbyId. 
