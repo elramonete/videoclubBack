@@ -35,3 +35,9 @@ DELETE Pelicula (borramos una pelicula por id)
 POST Pelicula (nueva pelicula)
 PUT Pelicula (actualizar pelicula)
 ![img_3.png](img_3.png)
+
+Hemos añadido el Cacheable de REDIS, para el get all y el getbyId. 
+Y el guardar, actualizar y borrar CacheEvict lo desactivamos.
+![img_4.png](img_4.png)
+
+![img_5.png](img_5.png)
