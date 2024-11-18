@@ -42,7 +42,13 @@ Y el guardar, actualizar y borrar CacheEvict lo desactivamos.
 
 ![img_5.png](img_5.png)
 
-Hemos añadido un sistema de monitoreo, con Prometheus y Grafana.  
+Hemos añadido un sistema de monitoreo, con Prometheus y Grafana.
+Prometheus:
+http://localhost:9090/query
+http://elramonete:8090/actuator/prometheus
+
 ![img_6.png](img_6.png)
+
+Grafana: http://localhost:3000/
 
 ![img_9.png](img_9.png)
