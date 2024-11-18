@@ -16,16 +16,6 @@ Jenkins_Url: http://localhost:8080/job/ProyectoVideoclub/
 ![img_2.png](img_2.png)
 
 
-
-
-
-
-
-### Reference Documentation 
-
-Pruebas nuevas
-
-
 Obtener todas las peliculas o guardar peliculas desde el postman.
 http://localhost:8090/api/pelicula
 Postman: 
