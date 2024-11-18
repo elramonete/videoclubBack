@@ -52,3 +52,7 @@ http://elramonete:8090/actuator/prometheus
 Grafana: http://localhost:3000/
 
 ![img_9.png](img_9.png)
+
+http_server_requests_seconds_sum: Suma de los tiempos de respuesta de todas las solicitudes HTTP.
+http_server_requests_seconds_count: Número total de solicitudes HTTP.
+Con estos dos, puedes calcular la latencia promedio de las solicitudes
