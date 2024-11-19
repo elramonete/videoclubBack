@@ -32,6 +32,8 @@ Y el guardar, actualizar y borrar CacheEvict lo desactivamos.
 
 ![img_5.png](img_5.png)
 
+Para borrar la bbdd de Redis Cache (en cmd C:\redis>redis-cli.exe FLUSHALL)
+
 Hemos añadido un sistema de monitoreo, con Prometheus y Grafana.
 Prometheus:
 http://localhost:9090/query
