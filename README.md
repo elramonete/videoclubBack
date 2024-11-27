@@ -28,6 +28,9 @@ PUT Pelicula (actualizar pelicula)
 
 Hemos añadido el Cacheable de REDIS, para el get all y el getbyId. 
 Y el guardar, actualizar y borrar CacheEvict lo desactivamos.
+Reducir la latencia y mejorer los tiempos de respuesta utilizando tecnologías 
+de caching como Redis que almacenan en memoria datos altamente fecuentados
+por los usuarios.
 ![img_4.png](img_4.png)
 
 ![img_5.png](img_5.png)
